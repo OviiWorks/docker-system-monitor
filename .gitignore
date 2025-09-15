@@ -1,0 +1,7 @@
+# Ignore logs and state files
+*.log
+*.txt
+
+# Ignore secret config
+config.env
+
