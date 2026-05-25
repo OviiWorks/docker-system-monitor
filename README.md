@@ -27,7 +27,7 @@ It sends notifications to **Discord** via a webhook, so you always know the stat
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/docker-monitor.git
+git clone https://github.com/OviiWorks/docker-monitor.git
 cd docker-monitor
 ```
 
